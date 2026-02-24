@@ -1,0 +1,153 @@
+Country,mean_compensation,median_compensation
+Afghanistan,22328.67,1000.0
+Albania,78688.33,67779.0
+Algeria,20187.29,7088.0
+Andorra,226103.5,226103.5
+Argentina,49658.08,41800.0
+Armenia,19093.4,2075.0
+Australia,104585.03,97514.0
+Austria,79127.43,76570.0
+Azerbaijan,23445.33,29397.0
+Bahrain,15909.0,15909.0
+Bangladesh,16833.53,6545.0
+Barbados,45450.5,45450.5
+Belarus,93666.67,100000.0
+Belgium,80116.17,69609.0
+Belize,102121.0,102121.0
+Benin,9694.0,9694.0
+Bhutan,11635.0,11635.0
+Bolivia,32052.0,19723.0
+Bosnia and herzegovina,59171.86,50000.0
+Botswana,1277.0,1277.0
+Brazil,37809.62,27306.0
+Bulgaria,56666.41,48557.0
+Burundi,1697.0,1697.0
+Cambodia,1270.0,1270.0
+Cameroon,7177.5,6634.0
+Canada,98113.21,87550.0
+Chile,40616.23,31809.0
+China,58248.65,41786.0
+Colombia,34802.6,24468.0
+"Congo, republic of the...",4246.0,4246.0
+Costa rica,85725.83,59500.0
+Croatia,50080.81,43505.5
+Cuba,90878.0,12300.0
+Cyprus,86682.11,90491.0
+Czech republic,62231.46,56167.0
+Côte d'ivoire,89804.75,35027.5
+Democratic republic of the congo,30000.0,30000.0
+Denmark,98522.41,97200.5
+Dominican republic,29641.78,10000.0
+Ecuador,41194.77,20000.0
+Egypt,17129.23,6391.0
+El salvador,72500.0,72500.0
+Estonia,64516.14,69609.0
+Ethiopia,29319.0,4513.0
+Finland,78260.26,74249.0
+France,69909.84,60328.0
+Georgia,72678.72,66161.0
+Germany,85674.48,81210.0
+Ghana,10861.43,4785.5
+Greece,56467.96,44666.0
+Guatemala,32999.94,26024.5
+Guinea,2773.0,2773.0
+Guyana,26305.5,26305.5
+Haiti,9149.0,9149.0
+Honduras,26663.0,26663.0
+Hong kong (s.a.r.),73814.5,61783.5
+Hungary,57829.12,46006.5
+Iceland,76083.0,99992.0
+India,31188.15,17436.0
+Indonesia,14797.24,5883.0
+"Iran, islamic republic of...",63976.7,12500.0
+Iraq,9166.0,9166.0
+Ireland,120523.92,116015.0
+Isle of man,71910.0,66845.0
+Israel,135828.37,142594.0
+Italy,55106.15,48726.0
+Japan,62926.32,55271.0
+Jordan,34674.38,30656.0
+Kazakhstan,37100.09,32436.0
+Kenya,30685.14,6192.0
+Kosovo,52980.0,48726.0
+Kuwait,78975.0,78975.0
+Kyrgyzstan,106008.5,106008.5
+Latvia,47849.48,48726.0
+Lebanon,115540.0,65000.0
+Lesotho,2822.0,2822.0
+Lithuania,72976.03,66128.0
+Luxembourg,116014.71,109054.0
+Madagascar,15547.0,3376.0
+Malawi,8656.0,8656.0
+Malaysia,22278.52,14138.0
+Maldives,17689.0,17689.0
+Mali,11941.5,11941.5
+Malta,59947.3,60907.5
+Mauritius,14209.33,15976.0
+Mexico,37651.65,30791.5
+Moldova,33773.0,33773.0
+Mongolia,31626.67,29757.0
+Montenegro,68801.4,75410.0
+Morocco,28117.94,29174.0
+Mozambique,10162.5,10162.5
+Myanmar,11002.5,11002.5
+Namibia,3923.0,3923.0
+Nepal,9255.65,4308.5
+Netherlands,91201.38,80050.0
+New zealand,81482.45,79812.0
+Nicaragua,71500.0,71500.0
+Nigeria,6034.0,1937.0
+Nomadic,140153.33,144609.0
+North korea,23400.0,23400.0
+Norway,94534.0,88945.0
+Oman,390135.0,390135.0
+Pakistan,15572.71,8428.0
+Palestine,78.0,78.0
+Panama,57740.0,22100.0
+Paraguay,25931.75,24278.0
+Peru,34681.68,23404.0
+Philippines,22667.16,11589.0
+Poland,68188.94,60038.0
+Portugal,70745.66,63808.0
+Qatar,46111.0,46111.0
+Republic of korea,65880.0,44096.0
+Republic of moldova,41058.0,41058.0
+Republic of north macedonia,30414.4,9415.0
+Romania,53082.8,50544.0
+Russian federation,41130.94,41340.0
+Rwanda,15010.14,17324.0
+Saint lucia,30810.5,30810.5
+Saudi arabia,61547.5,48650.0
+Serbia,56009.54,46368.5
+Singapore,130382.87,87876.0
+Slovakia,53149.96,49886.0
+Slovenia,63574.07,48726.0
+Somalia,5300.0,5300.0
+South africa,48405.21,41142.5
+South korea,69531.8,44096.0
+Spain,68762.29,63808.0
+Sri lanka,25673.45,14987.0
+Suriname,18686.5,18686.5
+Swaziland,2312.0,2312.0
+Sweden,73108.84,70440.0
+Switzerland,146236.26,138321.0
+Syrian arab republic,6845.5,6845.5
+Taiwan,46080.89,33886.0
+Thailand,64260.96,60593.5
+Togo,354.0,354.0
+Trinidad and tobago,47135.0,47135.0
+Tunisia,10729.5,4073.0
+Turkey,37041.89,27949.0
+Uganda,26011.83,9176.5
+Ukraine,34593.44,27290.0
+United arab emirates,95442.29,54460.0
+United kingdom of great britain and northern ireland,106616.08,92576.0
+United republic of tanzania,24958.0,24958.0
+United states of america,156376.97,150000.0
+Uruguay,58163.05,49338.0
+Uzbekistan,13442.8,12577.0
+"Venezuela, bolivarian republic of...",11226.67,6000.0
+Viet nam,22602.64,9553.0
+Yemen,32929.5,23672.0
+Zambia,5424.25,3206.0
+Zimbabwe,34000.0,25500.0
