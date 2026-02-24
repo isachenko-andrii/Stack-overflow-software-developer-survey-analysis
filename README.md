@@ -58,8 +58,8 @@ The project includes:
     | - Project-logo.png — project cover  
     | - LICENSE — license file  
     | - requirements.txt — list of libraries to run the project  
-    | - gitignor - 
-    | - README.md — project description.  
+    | - .gitignore - git ignore patterns
+    | - README.md — project description  
   
 ## How to Use  
   
