@@ -1,4 +1,4 @@
-![Project-0001p](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/Project-logo.png)
+![Project-0001p](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/project-logo.png)
 
 ## Project title: Stack overflow software developer survey analysis (Big Data Analysis)  
   
@@ -53,9 +53,10 @@ The project includes:
     | - data/ — project data  
     |     | - raw/ — raw data  
     |     | - processed/ — cleaned data  
-    | - notebooks/ — main file with analysis code (Project_0001p.ipynb)  
+    | - notebooks/ — main file with analysis code (Project_0001p.ipynb)
+    | - reports/ - report of project  
     | - results/ — saved graphs and final tables  
-    | - Project-logo.png — project cover  
+    | - project-logo.png — project cover  
     | - LICENSE — license file  
     | - requirements.txt — list of libraries to run the project  
     | - .gitignore - git ignore patterns
