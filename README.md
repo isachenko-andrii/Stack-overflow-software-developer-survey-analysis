@@ -54,7 +54,7 @@ The project includes:
     |     | - raw/ — raw data  
     |     | - processed/ — cleaned data  
     | - notebooks/ — main file with analysis code (Project_0001p.ipynb)  
-    | - reports/ - report of project  
+    | - reports/ — report of project  
     | - results/ — saved graphs and final tables  
     | - project-logo.png — project cover  
     | - LICENSE — license file  
