@@ -33,19 +33,19 @@ The analysis used open data from the annual Stack Overflow Developer Survey 2025
 The project includes:  
  - Histograms of experience distribution.
   
-![Experience Distribution](https://github.com/isachenko-andrii/Python-projects/raw/main/Project-0001p/results/work_experience_dist.png)
+![Experience Distribution](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/work_experience_dist.png)
   
  - Comparative charts of "Median vs Mean" salaries by country.
   
-![salaries by country](https://github.com/isachenko-andrii/Python-projects/raw/main/Project-0001p/results/python_median_vs_mean.png)
+![salaries by country](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_median_vs_mean.png)
   
  - Donut-chart of distribution of work formats (Remote/Hybrid/In-person).
   
-![Analysis image 1](https://github.com/isachenko-andrii/Python-projects/raw/main/Project-0001p/results/remote_work_pie_chart.png)
+![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/remote_work_pie_chart.png)
   
 - Python popularity trends by age.
   
-![Analysis image 1](https://github.com/isachenko-andrii/Python-projects/raw/main/Project-0001p/results/python_popularity_by_age.png)  
+![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_popularity_by_age.png)  
   
 ## Project structure
 
@@ -58,6 +58,7 @@ The project includes:
     | - Project-logo.png — project cover  
     | - LICENSE — license file  
     | - requirements.txt — list of libraries to run the project  
+    | - gitignor - 
     | - README.md — project description.  
   
 ## How to Use  
@@ -67,16 +68,16 @@ To run this analysis locally, follow these steps:
   
 **1. Download the project file**  
   
-[Project_0001p.ipynb](https://github.com/isachenko-andrii/Python-projects/blob/main/Project-0001p/notebooks/Project_0001p.ipynb)  
+[Project_0001p.ipynb](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/Project_0001p.ipynb)  
   
-File location: https://github.com/isachenko-andrii/Python-projects/blob/main/Project-0001p/notebooks/Project_0001p.ipynb  
+File location: https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/Project_0001p.ipynb  
   
 **2. Download the dataset**
   
-[stack-overflow-developer-survey-2025.zip](https://github.com/isachenko-andrii/Python-projects/blob/main/Project-0001p/data/raw/stack-overflow-developer-survey-2025.zip)  
+[stack-overflow-developer-survey-2025.zip](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/stack-overflow-developer-survey-2025.zip)  
 
 File location:  
-https://github.com/isachenko-andrii/Python-projects/blob/main/Project-0001p/data/raw/stack-overflow-developer-survey-2025.zip  
+https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/stack-overflow-developer-survey-2025.zip  
 
 The data is large, so it was previously archived.  
   
