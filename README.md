@@ -97,7 +97,7 @@ https://survey.stackoverflow.co/
 You can open the notebook in Jupyter Notebook, VS Code, or upload it to Google Colab:  
   
 • **For Jupyter:** jupyter notebook notebooks/project-notebook.ipynb  
-• **For Colab:** simply upload the Project_0001p.ipynb file to your Google Drive.  
+• **For Colab:** simply upload the project-notebook.ipynb file to your Google Drive.  
   
 To connect the dataset to the project locally in step 1. "Data acquisition" of the project, replace the path to the **survey_results_schema.csv** and **survey_results_public.csv** files with the current one  
     
