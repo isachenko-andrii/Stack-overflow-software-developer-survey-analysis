@@ -111,7 +111,7 @@ srp_df_url = 'path to file /survey_results_public.csv'
   
 ## Contact  
     
-**Name:** Andrii Isachenko  
+**Name:** [Andrii Isachenko](https://isachenko-andrii.github.io)    
 **LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
 **E-mail:** isao.datastudio@gmail.com   
   
