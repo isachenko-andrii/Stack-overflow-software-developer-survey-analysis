@@ -50,17 +50,17 @@ The project includes:
 ## Project structure
 
 **Stack-overflow-software-developer-survey-analysis/** — project directory  
-    | - data/ — project data  
-    |     | - raw/ — raw data  
-    |     | - processed/ — cleaned data  
-    | - notebooks/ — main file with analysis code (Project_0001p.ipynb)  
-    | - reports/ — report of project  
-    | - results/ — saved graphs and final tables    
-    | - requirements.txt — list of libraries to run the project  
-    | - .gitignore - git ignore patterns  
-    | - LICENSE — license file  
-    | - project-logo.png — project cover  
-    | - README.md — project description  
+    ├── data/ — project data  
+    │ ├── raw/ — raw data  
+    │ └── processed/ — cleaned data  
+    ├── notebooks/ — main file with analysis code (Project_0001p.ipynb)  
+    ├── reports/ — report of project  
+    ├── results/ — saved graphs and final tables    
+    ├── requirements.txt — list of libraries to run the project  
+    ├── .gitignore - git ignore patterns  
+    ├── LICENSE — license file  
+    ├── project-logo.png — project cover  
+    └── README.md — project description  
   
 ## How to Use  
   
@@ -78,7 +78,7 @@ File location: https://github.com/isachenko-andrii/Stack-overflow-software-devel
 [stack-overflow-developer-survey-2025.zip](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/stack-overflow-developer-survey-2025.zip)  
 
 File location:  
-https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/stack-overflow-developer-survey-2025.zip  
+https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/ 
 
 The data is large, so it was previously archived.  
   
