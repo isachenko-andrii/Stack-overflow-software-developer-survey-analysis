@@ -71,7 +71,7 @@ To run this analysis locally, follow these steps:
   
 [project-notebook.ipynb](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/project-notebook.ipynb)  
   
-File location: https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/project-notebook.ipynb  
+File location: https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/
   
 **2. Download the dataset**
   
