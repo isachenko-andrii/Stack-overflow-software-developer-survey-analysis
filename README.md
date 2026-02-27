@@ -58,7 +58,7 @@ The project includes:
     ├── results/ — saved graphs and final tables    
     ├── requirements.txt — list of libraries to run the project  
     ├── .gitignore - git ignore patterns  
-    ├── LICENSE — license file  
+    ├── LICENSE — MIT License  
     ├── project-logo.png — project cover  
     └── README.md — project description  
   
