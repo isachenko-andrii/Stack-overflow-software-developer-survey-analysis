@@ -57,11 +57,9 @@ The project includes:
     ├── data/ — project data  
     │ ├── raw/ — raw data  
     │ └── processed/ — cleaned data  
-    │  
-    ├── notebooks/ — main file with analysis code
-    ├── reports/ — report of project  
+    ├── notebooks/ — main file with analysis code  
     ├── results/ — saved graphs and final tables  
-    │  
+    ├── reports/ — report of project  
     ├── requirements.txt — list of libraries to run the project  
     ├── .gitignore - git ignore patterns  
     ├── LICENSE — MIT License  
