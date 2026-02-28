@@ -1,6 +1,10 @@
 ![Project-logo](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/project-logo.png)
 
-## Project title: Stack overflow software developer survey analysis (Big Data Analysis)  
+<div align="center">  
+    
+## Stack overflow software developer survey analysis<br>(Big Data Analysis)   
+  
+</div>  
   
 ## Project description  
 This project is dedicated to a detailed analysis of the results of the annual Stack Overflow Developer Survey 2025. The purpose of the analysis is to study current trends in the IT industry, investigate the popularity of the Python language, and analyze the factors influencing the high compensation of remote workers.  
