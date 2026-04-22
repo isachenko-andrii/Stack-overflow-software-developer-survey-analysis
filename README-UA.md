@@ -16,10 +16,10 @@
   **Розмір вибірки:** Понад 49 000 респондентів з усього світу.  
   **Склад даних:** Файл містить відповіді розробників щодо технологічного стеку (мови, фреймворки), рівня доходу, формату роботи (віддалено/офіс), освіти та демографічних показників. 
 
-## Technology stack  
-**Language:** Python 3.12  
-**Libraries:** Pandas (data processing), Matplotlib & Seaborn (visualization), Plotly (interactive graphs).  
-**Environment:** Google Colab.  
+## Технологічний стек   
+**Мова:** Python 3.12  
+**Бібліотеки:** Pandas (обробка даних), Matplotlib & Seaborn (візуалізація), Plotly (інтерактивні графіки).  
+**Середовище:** Google Colab.  
 
 ## Key stages of analysis  
   **1. Pre-processing:** Data cleaning and normalization.  
