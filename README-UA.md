@@ -72,31 +72,30 @@
 **Як використовувати цей проект**  
 Щоб виконати цей аналіз локально, виконайте такі дії:  
   
-**1. Download the project file**  
+**1. Завантажте файл проєкту**  
   
 [project-notebook.ipynb](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/project-notebook.ipynb)  
   
-File location: https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/
+Розташування файлу: https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/notebooks/
   
-**2. Download the dataset**
+**2. Завантажити набір даних**
   
 [stack-overflow-developer-survey-2025.zip](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/stack-overflow-developer-survey-2025.zip)  
 
-File location:  
+Розташування файлу:  
 https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/blob/main/data/raw/ 
 
-The data is large, so it was previously archived.  
+Файли заархивовано.  
+Вміст архіву:  
   
-Archive content:  
-
-**survey_results_public.csv** — the main anonymized responses of respondents (the primary object of analysis).  
-**survey_results_schema.csv** — explanation of column headings and question texts.  
-**2025_Developer_Survey_Tool.pdf** — the complete survey structure for understanding the context of data collection.  
+**survey_results_public.csv** — основні анонімізовані відповіді респондентів (первинний об'єкт аналізу).  
+**survey_results_schema.csv** — пояснення заголовків колонок та текстів питань.  
+**2025_Developer_Survey_Tool.pdf** — повна структура опитування для розуміння контексту збору даних.  
   
-Alternative way to obtain data:  
-
+Альтернативний спосіб отримання даних:  
+  
 https://survey.stackoverflow.co/  
-
+  
 **3. Running the analysis**
   
 You can open the notebook in Jupyter Notebook, VS Code, or upload it to Google Colab:  
@@ -114,19 +113,19 @@ srp_df_url = '/content/drive/MyDrive/ISAO/data/survey_results_public.csv'
 srs_df_url = 'path to file /survey_results_schema.csv'  
 srp_df_url = 'path to file /survey_results_public.csv'  
   
-## Contact  
+## Контакти  
     
-**Name:** [Andrii Isachenko](https://isachenko-andrii.github.io)    
+**Ім'я:** [Andrii Isachenko](https://isachenko-andrii.github.io)    
 **LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
 **E-mail:** isao.datastudio@gmail.com   
   
-## Acknowledgments    
+## Подяки    
  
- - Thanks to the [Stack Overflow](https://survey.stackoverflow.co/) community for the open data.  
+ - Thanks to the [Stack Overflow](https://survey.stackoverflow.co/) спільнота відкритих даних.  
  - Thanks to the [Data Analyst/GoIT](https://goit.global/ua/courses/data-analytics/) course, which was part of this project.
 
 ---
   
-**Project Status:** Completed. In the future, we plan to add analysis of the correlation between the use of AI tools and income level. Anomaly analysis - conducting a detailed study of the outliers segment.  
+**Статус проекту:** Виконано. У майбутньому планую додати аналіз кореляції між використанням інструментів штучного інтелекту та рівнем доходу. Аналіз аномалій – проведення детального дослідження сегмента викидів.  
     
-**License:** MIT License.  
+**Ліцензія:** MIT License.  
