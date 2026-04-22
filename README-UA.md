@@ -55,17 +55,17 @@
 ## Структура проекту
 
 **Stack-overflow-software-developer-survey-analysis/** — project directory  
-    ├── data/ — project data  
-    │ ├── raw/ — raw data  
-    │ └── processed/ — cleaned data  
-    ├── notebooks/ — main file with analysis code  
-    ├── results/ — saved graphs and final tables  
-    ├── reports/ — report of project  
-    ├── requirements.txt — list of libraries to run the project  
-    ├── .gitignore - git ignore patterns  
+    ├── data/ — дані проєкту  
+    │ ├── raw/ — необроблені дані  
+    │ └── processed/ — очищені дані  
+    ├── notebooks/ — файли з кодом аналізу  
+    ├── results/ — збережені графіки та підсумкові таблиці  
+    ├── reports/ — звіт про проект  
+    ├── requirements.txt — список бібліотек для запуску проєкту  
+    ├── .gitignore - шаблони ігнорування git  
     ├── LICENSE — MIT License  
-    ├── project-logo.png — project cover  
-    └── README.md — project description  
+    ├── project-logo.png — обкладинка проекту  
+    └── README.md — опис проекту  
   
 ## How to Use  
   
