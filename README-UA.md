@@ -67,10 +67,10 @@
     ├── project-logo.png — обкладинка проекту  
     └── README.md — опис проекту  
   
-## How to Use  
+## Як використовувати  
   
-**How to use this project**  
-To run this analysis locally, follow these steps:  
+**Як використовувати цей проект**  
+Щоб виконати цей аналіз локально, виконайте такі дії:  
   
 **1. Download the project file**  
   
