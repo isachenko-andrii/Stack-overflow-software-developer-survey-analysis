@@ -96,22 +96,22 @@ https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-ana
   
 https://survey.stackoverflow.co/  
   
-**3. Running the analysis**
+**3. Виконання аналізу**
   
-You can open the notebook in Jupyter Notebook, VS Code, or upload it to Google Colab:  
+Ви можете відкрити блокнот у Jupyter Notebook, VS Code або завантажити його до Google Colab.:  
   
-• **For Jupyter:** jupyter notebook notebooks/project-notebook.ipynb  
-• **For Colab:** simply upload the project-notebook.ipynb file to your Google Drive.  
+• **Для Jupyter:** jupyter notebook notebooks/project-notebook.ipynb  
+• **Для Colab:** просто завантажте файл project-notebook.ipynb на свій Google Диск.  
   
-To connect the dataset to the project locally in step 1. "Data acquisition" of the project, replace the path to the **survey_results_schema.csv** and **survey_results_public.csv** files with the current one  
+Щоб підключити набір даних до проекту локально на кроці 1. «Збір даних» проекту, замініть шлях до файлів **survey_results_schema.csv** та **survey_results_public.csv** на поточний.  
     
-**Was:**  
+**Було:**  
 srs_df_url = '/content/drive/MyDrive/ISAO/data/survey_results_schema.csv'  
 srp_df_url = '/content/drive/MyDrive/ISAO/data/survey_results_public.csv'  
   
-**Now:**   
-srs_df_url = 'path to file /survey_results_schema.csv'  
-srp_df_url = 'path to file /survey_results_public.csv'  
+**Стало:**   
+srs_df_url = 'шлях до файлу /survey_results_schema.csv'  
+srp_df_url = 'шлях до файлу /survey_results_public.csv'  
   
 ## Контакти  
     
@@ -121,8 +121,8 @@ srp_df_url = 'path to file /survey_results_public.csv'
   
 ## Подяки    
  
- - Thanks to the [Stack Overflow](https://survey.stackoverflow.co/) спільнота відкритих даних.  
- - Thanks to the [Data Analyst/GoIT](https://goit.global/ua/courses/data-analytics/) course, which was part of this project.
+ - Висловлюю подяку [Stack Overflow](https://survey.stackoverflow.co/) спільнота відкритих даних.  
+ - Висловлюю подяку [Data Analyst/GoIT](https://goit.global/ua/courses/data-analytics/) курс, частиною навчання на якому є виконання цього проєкту.
 
 ---
   
