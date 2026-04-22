@@ -54,7 +54,7 @@
   
 ## Структура проекту
 
-**Stack-overflow-software-developer-survey-analysis/** — каталог проектів  
+**Stack-overflow-software-developer-survey-analysis/** — каталог проєкту  
     ├── data/ — дані проєкту  
     │ ├── raw/ — необроблені дані  
     │ └── processed/ — очищені дані  
