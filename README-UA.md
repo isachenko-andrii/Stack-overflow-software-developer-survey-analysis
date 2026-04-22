@@ -21,14 +21,14 @@
 **Бібліотеки:** Pandas (обробка даних), Matplotlib & Seaborn (візуалізація), Plotly (інтерактивні графіки).  
 **Середовище:** Google Colab.  
 
-## Key stages of analysis  
-  **1. Pre-processing:** Data cleaning and normalization.  
-  **2. Data Export:** The processed and cleaned dataset is saved to a separate file survey_results_cleaned.csv for further use in other studies.  
-  **3. Demographic portrait:** Analysis of work experience (WorkExp) and age categories.  
-  **4. Python ecosystem:** Study of language popularity among different groups and analysis of median salaries.  
-  **5. Remote Work:** Filtering of highly paid professionals (Top 25% by income) and their distribution by industry.  
+## Ключові етапи аналізу 
+  **1. Попередня обробка:** Очищення та нормалізація даних.  
+  **2. Експорт даних:** Оброблений та очищений набір даних зберігається в окремому файлі survey_results_cleaned.csv для подальшого використання в інших дослідженнях..  
+  **3. Демографічний портрет:** Аналіз досвіду роботи (WorkExp) та вікових категорій.  
+  **4. Екосистема Python:** Дослідження популярності мов серед різних груп та аналіз медіанних зарплат.  
+  **5. Віддалена робота:** Фільтрування високооплачуваних фахівців (топ-25% за рівнем доходу) та їх розподіл за галузями.  
 
-## Key insights  
+## Ключові висновки  
  - **Python dominates:** 37.5% of respondents use Python, with the peak popularity occurring in younger age groups.  
  - **Community Experience:** The median developer experience is 10 years, indicating a mature market.  
  - **Education:** Over 43% of professionals use online courses as their primary source of knowledge, highlighting the flexibility of today’s IT education.  
