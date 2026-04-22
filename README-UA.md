@@ -36,19 +36,19 @@
 
  ## Візуалізації  
 Проєкт включає:  
- - Гістограми розподілу досвіду.
+ - **Гістограми розподілу досвіду.**
   
 ![Experience Distribution](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/work_experience_dist.png)
   
- - Порівняльні діаграми зарплат "Медіана проти середнього" за країнами.
+ - **Порівняльні діаграми зарплат "Медіана проти середнього" за країнами.**
   
 ![salaries by country](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_median_vs_mean.png)
   
- - Кільцева діаграма розподілу форматів роботи (віддалена/гібридна/очна).
+ - **Кільцева діаграма розподілу форматів роботи (віддалена/гібридна/очна).**
   
 ![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/remote_work_pie_chart.png)
   
-- Тенденції популярності Python за віком.
+- **Тенденції популярності Python за віком.**
   
 ![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_popularity_by_age.png)  
   
