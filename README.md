@@ -1,5 +1,6 @@
 ![Project-logo](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/project-logo.png)
-
+#### [EN](https://github.com/isachenko-andrii/isachenko-andrii/edit/main/README.md) | [UA](https://github.com/isachenko-andrii/isachenko-andrii/blob/main/README-UA.MD) This material is also available in Ukrainian.
+---  
 <div align="center">  
     
 ## Stack overflow software developer survey analysis<br>(Big Data Analysis)   
