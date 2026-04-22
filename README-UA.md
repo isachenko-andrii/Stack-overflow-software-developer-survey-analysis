@@ -35,24 +35,24 @@
  - **Високооплачувані галузі:** Найвищі зарплати для віддаленої роботи зосереджені в секторах розробки програмного забезпечення, фінтех та охорони здоров'я.  
 
  ## Візуалізації  
-The project includes:  
- - Histograms of experience distribution.
+Проєкт включає:  
+ - Гістограми розподілу досвіду.
   
 ![Experience Distribution](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/work_experience_dist.png)
   
- - Comparative charts of "Median vs Mean" salaries by country.
+ - Порівняльні діаграми зарплат "Медіана проти середнього" за країнами.
   
 ![salaries by country](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_median_vs_mean.png)
   
- - Donut-chart of distribution of work formats (Remote/Hybrid/In-person).
+ - Кільцева діаграма розподілу форматів роботи (віддалена/гібридна/очна).
   
 ![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/remote_work_pie_chart.png)
   
-- Python popularity trends by age.
+- Тенденції популярності Python за віком.
   
 ![Analysis image 1](https://github.com/isachenko-andrii/Stack-overflow-software-developer-survey-analysis/raw/main/results/python_popularity_by_age.png)  
   
-## Project structure
+## Структура проекту
 
 **Stack-overflow-software-developer-survey-analysis/** — project directory  
     ├── data/ — project data  
