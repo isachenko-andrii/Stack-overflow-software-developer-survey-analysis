@@ -23,18 +23,18 @@
 
 ## Ключові етапи аналізу 
   **1. Попередня обробка:** Очищення та нормалізація даних.  
-  **2. Експорт даних:** Оброблений та очищений набір даних зберігається в окремому файлі survey_results_cleaned.csv для подальшого використання в інших дослідженнях..  
+  **2. Експорт даних:** Оброблений та очищений набір даних зберігається в окремому файлі survey_results_cleaned.csv для подальшого використання в інших дослідженнях.  
   **3. Демографічний портрет:** Аналіз досвіду роботи (WorkExp) та вікових категорій.  
   **4. Екосистема Python:** Дослідження популярності мов серед різних груп та аналіз медіанних зарплат.  
   **5. Віддалена робота:** Фільтрування високооплачуваних фахівців (топ-25% за рівнем доходу) та їх розподіл за галузями.  
 
 ## Ключові висновки  
- - **Python dominates:** 37.5% of respondents use Python, with the peak popularity occurring in younger age groups.  
- - **Community Experience:** The median developer experience is 10 years, indicating a mature market.  
- - **Education:** Over 43% of professionals use online courses as their primary source of knowledge, highlighting the flexibility of today’s IT education.  
- - **High-Paid Industries:** The highest salaries for remote work are concentrated in the Software Development, Fintech, and Healthcare sectors.  
+ - **Пітон домінує:** 37,5% респондентів використовують Python, причому пік популярності припадає на молодші вікові групи.  
+ - **Досвід громади:** Середній досвід розробника становить 10 років, що свідчить про зрілий ринок.  
+ - **Освіта:** Понад 43% фахівців використовують онлайн-курси як основне джерело знань, що підкреслює гнучкість сучасної ІТ-освіти.  
+ - **Високооплачувані галузі:** Найвищі зарплати для віддаленої роботи зосереджені в секторах розробки програмного забезпечення, фінтех та охорони здоров'я.  
 
- ## Visualizations  
+ ## Візуалізації  
 The project includes:  
  - Histograms of experience distribution.
   
