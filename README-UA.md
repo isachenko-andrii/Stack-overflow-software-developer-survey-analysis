@@ -3,7 +3,7 @@
 ---  
 <div align="center">  
     
-## Stack overflow software developer survey analysis<br>(Big Data Analysis)   
+## Аналіз опитування розробників Stack Overflow<br>(Big Data Analysis)   
   
 </div>  
   
